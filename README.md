@@ -1,6 +1,8 @@
 ## Hi, I am Hugues 👋
 
-I am a Data Scientist/AI engineer freshly graduated from ETH Zürich. I am interested in all kind of Machine Learning and Artificial Intelligence stuff among other things! 
+I am a Data Scientist/AI engineer freshly graduated from ETH Zürich.
+
+I am interested in all kind of Machine Learning and Artificial Intelligence stuff among other things! 
 
 ## How to Reach Me
 
