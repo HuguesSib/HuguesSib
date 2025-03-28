@@ -4,6 +4,7 @@ I am a Data Scientist/AI engineer freshly graduated from ETH Zürich.
 
 I am interested in all kind of Machine Learning and Artificial Intelligence stuff among other things! 
 
+I am currently working on a project with the [Prisma](https://www.prisma.io/) team.
 ## How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugues-sibille-561258158/)
