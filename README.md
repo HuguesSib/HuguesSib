@@ -31,6 +31,8 @@ Quick projects with live demos showcasing practical AI applications
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugues-sibille-561258158/)
 [![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sibille_hugues)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsibille@student.ethz.ch)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TwgC__W4nZUZkdDkG_mVfPtWwTjEs2D1/view?usp=sharing)
+
 
  
 <!--
