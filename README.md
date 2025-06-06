@@ -1,8 +1,4 @@
-## Hi, I am Hugues 👋
-
-
-
-# Hi there, I'm Hugues 👋
+## Hi there, I'm Hugues 👋
 
 🧠 **AI Researcher** passionate about multimodal models and their broad applications  
 🔍 **Information Retrieval Enthusiast** - believing most problems stem from how we find and process information  
