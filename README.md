@@ -2,7 +2,7 @@
 
 🧠 **AI Researcher** passionate about multimodal models and their broad applications  
 🔍 **Information Retrieval Enthusiast** - believing most problems stem from how we find and process information  
-📄 **Published Researcher** - [ICML 2025] ColPali: Document Retrieval in Visual Space
+📄 **Published Researcher** - [[ICML 2025] ColPali: Document Retrieval in Visual Space](https://arxiv.org/abs/2407.01449)
 
 ## 🔬 Current Focus
 - Vision Language Models and multimodal AI systems
@@ -18,7 +18,7 @@
 - 🌍 Applying AI to global challenges (environment, development, etc.)
 
 ## 🏆 Recent Achievements
-- **[ICML 2025]** Published ColPali - breakthrough in visual document retrieval
+- **[ICML 2025]** Published ColPali - breakthrough in visual document retrieval. 
 - **Production AI** experience building agentic systems at Clade.co
 - **ETH Zürich** MSc in ML & Signal Processing (84% GPA)
 - **Global perspective** from 8-month volunteering travels across Asia
