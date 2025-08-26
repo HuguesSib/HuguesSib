@@ -2,7 +2,7 @@
 
 🧠 **AI Researcher** passionate about multimodal models and their broad applications  
 🔍 **Information Retrieval Enthusiast** - believing most problems stem from how we find and process information  
-📄 **Published Researcher** - [[ICML 2025] ColPali: Document Retrieval in Visual Space](https://arxiv.org/abs/2407.01449)
+📄 **Published Researcher** - [[ICLR 2025] ColPali: Document Retrieval in Visual Space](https://arxiv.org/abs/2407.01449)
 
 ## 🔬 Current Focus
 - Vision Language Models and multimodal AI systems
