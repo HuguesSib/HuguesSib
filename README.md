@@ -1,32 +1,14 @@
-## Hi there, I'm Hugues 👋
+## Hi, I'm Hugues 👋
 
-🧠 **PhD Researcher @ EPFL** working on AI-driven coral reef monitoring  
-🔍 **Information Retrieval Enthusiast** - believing most problems stem from how we find and process information  
-📄 **Published Researcher** - [[ICLR 2025] ColPali: Document Retrieval in Visual Space](https://arxiv.org/abs/2407.01449)
+PhD student at [EPFL ECEO](https://www.epfl.ch/labs/eceo/) (Switzerland), working on AI for coral reef monitoring: 3D reconstruction, semantic segmentation, and tracking change on the same reef over time. I also build agentic systems at [Clade](https://clade.co).
 
-## 🔬 Current Focus
-- AI for environmental monitoring and conservation
-- 3D reconstruction and semantic segmentation of coral reefs
-- Temporal change detection and persistent spatial representations
-- Vision Language Models and multimodal AI systems
+I think most AI problems are retrieval problems: how you find and represent information.
 
-## 🌱 Research Interests
-- 🪸 AI for ocean and environmental monitoring
-- 🔍 Information retrieval as the foundation of AI problems
-- 🤖 Agentic systems and autonomous workflows  
-- 🏥 AI for healthcare and social good applications
-- 🛡️ AI safety, interpretability, and reliable systems
-- 🌍 Applying AI to global challenges (environment, development, etc.)
+**Papers**
+- **ColPali: Efficient Document Retrieval with Vision Language Models** (ICLR 2025) · [arXiv](https://arxiv.org/abs/2407.01449)
+- **Cross-Temporal Reef Relocalization** (Marine Vision Workshop @ ECCV 2026)
 
-## 🏆 Recent Achievements
-- **[ICLR 2025]** Published ColPali - breakthrough in visual document retrieval
-- **PhD @ EPFL** researching AI-driven coral reef monitoring (ECEO Lab, Sion)
-- **Production AI** experience building agentic systems at Clade.co
-- **ETH Zürich** MSc in ML & Signal Processing (84% GPA)
-- **Global perspective** from 8-month volunteering travels across Asia
-
-
-## 📫 Let's Connect
+**Background:** MSc in ML & Signal Processing, ETH Zürich · 8 months volunteering across Asia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugues-sibille-561258158/)
 [![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sibille_hugues)
